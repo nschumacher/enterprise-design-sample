@@ -1,0 +1,3 @@
+POST https://th-apex-http-callout.herokuapp.com/animals 
+Content-Type:application/json;charset=UTF-8
+Body:{"name":"mighty moose"}

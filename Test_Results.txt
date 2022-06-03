@@ -1,0 +1,27 @@
+MY FRAMEWORK
+100 Records
+TEST NAME                 OUTCOME  MESSAGE  RUNTIME (MS)
+────────────────────────  ───────  ───────  ────────────
+CaseTrigger_Test.testAll  Pass              20864  
+
+200 Records
+TEST NAME                 OUTCOME  MESSAGE  RUNTIME (MS)
+────────────────────────  ───────  ───────  ────────────
+CaseTrigger_Test.testAll  Pass              44841       
+
+250 Records
+APEX CPU TIMEOUT ERROR
+
+TYPICAL FRAMEWORK
+100 Records
+TEST NAME                 OUTCOME  MESSAGE  RUNTIME (MS)
+────────────────────────  ───────  ───────  ────────────
+CaseTrigger_Test.testAll  Pass              21721
+
+200 Records
+TEST NAME                 OUTCOME  MESSAGE  RUNTIME (MS)
+────────────────────────  ───────  ───────  ────────────
+CaseTrigger_Test.testAll  Pass              41596   
+
+250 Records
+APEX CPU TIMEOUT ERROR
